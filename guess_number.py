@@ -1,5 +1,5 @@
 # Guess the number game
-secret_number = 9
+secret_number = 10
 guess = 5  # You can change this to test
 
 if guess == secret_number:
